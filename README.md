@@ -8,10 +8,10 @@ APJ Abdul Kalam Technological University, Kerala, India
 
 ---
 
-I'm a software developer with hands-on experience in AI, cloud computing, embedded systems, and mobile application development. I completed an internship in Emerging Technologies (AI & Cloud) under the AICTE–Edunet Foundation–IBM program in 2024, where I worked on real-world AI and cloud solutions using IBM Cloud Platform.
-
-I build across the full stack — from ESP32 hardware prototypes to machine learning models to cross-platform mobile apps — with a focus on applying technology to problems in healthcare, climate action, and community services.
-
+I'm a Computer Science & Engineering graduate who learns by building things. I don't specialise in one area — I explore whatever technology interests me, build something with it to understand how it works, and move forward.
+ 
+Over the past few years I've worked across IoT, machine learning, mobile app development, and cloud platforms. I'm comfortable picking up something new when a project needs it. I'm also comfortable being a beginner — that's where the most learning happens.
+ 
 ---
 
 ## Skills
