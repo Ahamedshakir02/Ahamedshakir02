@@ -60,10 +60,12 @@ A database-backed platform for property management with user authentication, lis
 - **B.Tech, Computer Science & Engineering** — APJ Abdul Kalam Technological University
 - **Emerging Technologies Internship (AI & Cloud)** — Edunet Foundation × AICTE × IBM, 2024
 - **Top 100 Coders** — Huddle Global 2023, GTech MuLearn
+- **Hacktoberfest 2024** — Participant, open source contributions
 
 ---
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ahamedshakir02&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahamedshakir02&layout=compact&theme=default&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ahamedshakir02&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800)
+
+![Streak](https://streak-stats.demolab.com?user=Ahamedshakir02&theme=default&hide_border=true)
