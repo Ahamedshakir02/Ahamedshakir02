@@ -39,7 +39,7 @@ MySQL
 ## Projects
 
 **[FIRAI](https://github.com/Ahamedshakir02/firai)** — AI Investigation Assistant for Kerala Police
-An AI-powered investigation assistant with a custom-built AI engine — providing real-time FIR analysis, case intelligence, legal guidance, and multilingual support for Kerala Police officers. Built in Python, with a companion [mobile app](https://github.com/Ahamedshakir02/firai-mobile).
+An AI-powered investigation assistant with a custom-built AI engine — providing real-time FIR analysis, case intelligence, legal guidance, and multilingual support for Kerala Police officers. Built in Python.
 
 **[TailSafe](https://github.com/Ahamedshakir02/TailSafe)** — Disaster Vehicle Tracking System
 A vehicle tracking system designed to locate vehicles buried underground during landslides and other disasters. Integrates GPS (Neo-6M), accelerometer (MPU6050), RF communication, durable casing, and long-lasting power on an ESP32, transmitting location data via BLE and WebSocket with offline microSD fallback.
@@ -49,15 +49,6 @@ A freelance web platform built for a UAE-based client using TypeScript and React
 
 **[Stroke Prediction Model](https://github.com/Ahamedshakir02/Strokeprediction-ML)** — Medical ML
 An Artificial Neural Network model for early stroke diagnosis, trained to achieve >98% accuracy. Built with Python and TensorFlow, with a focus on clinical reliability.
-
-**Climate Action Alerts** — Mobile App
-A React Native (Expo) mobile application delivering location-aware environmental alerts, developed around the UN SDG 13 Climate Action goal.
-
-**College Wala** — Campus Chatbot
-An AI-powered chatbot built on IBM Cloud during the AICTE × Edunet internship. Handles student queries related to academics, campus services, and general information.
-
-**Real Estate Management System** — DBMS
-A database-backed platform for property management with user authentication, listing management, and query handling built in MySQL.
 
 ---
 
